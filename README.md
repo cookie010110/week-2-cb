@@ -1,13 +1,13 @@
-#Project name
+# Project name
 week-2-cb
 
-#Project description
+# Project description
 class build for week 2 of MMED-1054, walking through the creation and initial working with a github repository.
 
 # Installation
 copy repository from github to preferred location. you're good to go!
 
-#MIT license
+# MIT license
 Copyright <2022> Alexis Cooke
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
